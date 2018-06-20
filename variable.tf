@@ -1,0 +1,10 @@
+variable "instace_name" {}
+variable "access_key" {}
+variable "secret_key" {}
+variable "region" {}
+variable "ami_id" {}
+variable "key_name" {}
+variable "instance_type" {}
+variable "subnet_id" {}
+variable "user_data" {}
+variable "nuber_of_instance" {}
